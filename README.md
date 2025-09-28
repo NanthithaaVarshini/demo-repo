@@ -1,3 +1,3 @@
 #demo
 
-A new beginning.
+A new beginning!
